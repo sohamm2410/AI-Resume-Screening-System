@@ -15,3 +15,6 @@
 
 ## Run Project
 streamlit run app.py
+
+Live Demo:
+https://ai-resume-screening-system-fhfn2syxocy9uzuykli7nj.streamlit.app/
